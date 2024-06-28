@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://yotrable.github.io/sitemap
+Sitemap: https://yotrable.github.io/app/sitemap
+Sitemap: https://yotrable.github.io/assets/sitemap
+Sitemap: https://yotrable.github.io/css/sitemap
+Sitemap: https://yotrable.github.io/includes/sitemap
+Sitemap: https://yotrable.github.io/item/sitemap
+Sitemap: https://yotrable.github.io/src/sitemap
